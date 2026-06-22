@@ -38,6 +38,7 @@ public class Ac {
 		obj.printDetails();
 		Ac  obj2  = new Ac("LG","white",5400.5f,43560,1200);
 		obj2.printDetails();
+		Ac  obj3  = new Ac();
 	}
 	
 }
